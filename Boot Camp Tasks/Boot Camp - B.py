@@ -68,13 +68,15 @@ def main():
             sys.stdout.write('final round\n')
         enemy = -1
         forbid = set()
-        for player in players.keys():
+        ## players.keys() have not list type
+        players_ = list(players.keys())
+        for player in players_:
             if player in forbid or player in losers:
                 continue 
             forbid.add(player)
             enemy = player 
             while (enemy in forbid or enemy in losers):
-                enemy = random.choice(list(players.keys())) 
+                enemy = random.choice(players_) 
             forbid.add(enemy)
             winner,loser = sim_round(player,enemy)
             sys.stdout.write('player %s vs player %s: the winner is player %s\n' % (player,enemy,winner))

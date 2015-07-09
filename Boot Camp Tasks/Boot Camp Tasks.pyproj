@@ -5,7 +5,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>{f2a37c6d-b482-43fe-9c38-34caf517c9a8}</ProjectGuid>
     <ProjectHome />
-    <StartupFile>Boot Camp - A.py</StartupFile>
+    <StartupFile>Boot Camp - B.py</StartupFile>
     <SearchPath />
     <WorkingDirectory>.</WorkingDirectory>
     <OutputPath>.</OutputPath>
