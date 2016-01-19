@@ -1,21 +1,20 @@
 ---
 title: "HW1"
-author: "Константин Созыкин"
-date: "19 января 2016 г."
-output: pdf_document
+author: "Konstantin Sozykin"
+date: "19.01.2016"
 ---
 
 Integers. Prove or disprove:  
-1)  If a*b = a: prove that b = 1 
-	Lets mul on (1/a) -> a * (1/a) * b = a * (1/a) -> b = 1 
-2)  The difference of any two odd integers is even.  
-	Every odd can be represented as 2k + 1, then (2k1 + 1) - (2k2 + 1) =  2(k1 + k2) = 2*m
+
+1)  If a*b = a: prove that b = 1 : Lets mul on (1/a) -> a * (1/a) * b = a * (1/a) -> b = 1
+
+2)  The difference of any two odd integers is even. Every odd can be represented as 2k + 1, then (2k1 + 1) - (2k2 + 1) =  2(k1 + k2) = 2*m
 	
 Prime numbers 
-1)  Is n^k – 1 prime for any integers n and k?
-	Answer is No
-2)  Is expression n^2 – n + 41 a prime number? 
- 	Answer is no. For contr-example if n = 41, then n^2 – n + 41 = 41*41-41+41 =  1681 
+
+1)  Is n^k – 1 prime for any integers n and k? Answer is No
+2)  Is expression n^2 – n + 41 a prime number? Answer is No. For contr-example if n = 41, then n^2 – n + 41 = 41*41-41+41 =  1681
+ 	
 Divisibility 
 1)  Prove that sum of 2n + 1 consecutive numbers is divisible by 2n + 1
 	s = a+1+a+2+a+3...a+2*n + 1
