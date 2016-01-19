@@ -6,9 +6,10 @@ date: "19.01.2016"
 
 #Integers. Prove or disprove:  
 
-	1)  If a*b = a: prove that b = 1 : Lets mul on (1/a) -> a * (1/a) * b = a * (1/a) -> b = 1
-	
-	2)  The difference of any two odd integers is even. Every odd can be represented as 2k + 1, then (2k1 + 1) - (2k2 + 1) =  2(k1 + k2) = 2*m
+	1)  If a*b = a: prove that b = 1.
+		Lets mul on (1/a) and on 1 -> a * (1/a) * b * 1 = a * (1/a) * 1 -> b = 1
+	2)  The difference of any two odd integers is even. 
+	    Every odd can be represented as 2k + 1, then (2k1 + 1) - (2k2 + 1) =  2(k1 + k2) = 2*m
 	
 #Prime numbers 
 
@@ -20,8 +21,11 @@ date: "19.01.2016"
 
 	1)  Prove that sum of 2n + 1 consecutive numbers is divisible by 2n + 1
 		s = a+1+a+2+a+3...a+2*n + 1
+		
 		k = 2*n + 1
+		
 		a+1+a+2+a+...a+k = ak + k(k+1)/2 = (2ak + k(k+1))/2 = k(2*a+k+1)/2
+		
 		Now it is easy to see, that s divisible by k = 2n+1
 		
 	2)  Find quotient and divisor of: 
