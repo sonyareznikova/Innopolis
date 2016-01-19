@@ -15,7 +15,8 @@ date: "19.01.2016"
 
 	1)  Is n^k – 1 prime for any integers n and k? Answer is No
 	
-	2)  Is expression n^2 – n + 41 a prime number? Answer is No. For contr-example if n = 41, then n^2 – n + 41 = 41*41-41+41 =  1681
+	2)  Is expression n^2 – n + 41 a prime number? 
+	    Answer is No. For contr-example if n = 41, then n^2 – n + 41 = 41*41-41+41 =  1681
  	
 #Divisibility 
 
