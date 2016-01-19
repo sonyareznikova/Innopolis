@@ -7,13 +7,13 @@ date: "19.01.2016"
 #Integers. Prove or disprove:  
 
 	1)  If a*b = a: prove that b = 1.
-		Lets mul on (1/a) and on 1 -> a * (1/a) * b * 1 = a * (1/a) * 1 -> b = 1
+	    a*b = a -> a * (1/a) * b * 1 = a * (1/a) * 1 -> b = 1
 	2)  The difference of any two odd integers is even. 
 	    Every odd can be represented as 2k + 1, then (2k1 + 1) - (2k2 + 1) =  2(k1 + k2) = 2*m
 	
 #Prime numbers 
 
-	1)  Is n^k – 1 prime for any integers n and k? Answer is No
+	1)  Is n^k – 1 prime for any integers n and k? Answer is No. Contr example : $n = 6, k = 3, n^k -1 = (6^3) - 1 = 215$
 	
 	2)  Is expression n^2 – n + 41 a prime number? 
 	    Answer is No. For contr-example if n = 41, then n^2 – n + 41 = 41*41-41+41 =  1681
@@ -25,7 +25,7 @@ date: "19.01.2016"
 		
 		k = 2*n + 1
 		
-		a+1+a+2+a+...a+k = ak + k(k+1)/2 = (2ak + k(k+1))/2 = k(2*a+k+1)/2
+		a+1+a+2+a+...a+k = ak + $k(k+1)/2 = (2ak + k(k+1))/2 = k(2*a+k+1)/2
 		
 		Now it is easy to see, that s divisible by k = 2n+1
 		
