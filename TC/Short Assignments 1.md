@@ -16,7 +16,7 @@ So  finally, my writing process include following steps:
 - [X] Make sure than automatic spell checker at my favorite text editor is working (Russian and English)
 - [X] Add file with paper to my cloud or version control system.
 - [X] Start to Work on paper during approximately 30 minutes.
-- [X] Switch to other activity like coding or reading with parallel thinking about paper.
+- [X] Switch to other activity like coding or reading or drinking coffe with parallel thinking about paper.
 - [X] Return to work on a paper
 - [X] Repeat Switching until work will be done
 - [X] Give paper to some one with good grammar skills
