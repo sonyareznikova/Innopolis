@@ -7,12 +7,16 @@ If you would ask me about my technological and research interests my answer will
 
 For example If someone knows that I am a programmer usually he or she ask me what I am doing. It is typical dialog for me and non-IT persons:
 
->	Do you program web  or android apps?
->	No. I am interested in computer vision.
->	WAT? What is this?
->	Sigh……..
+> -- Do you program web  or android apps?
+
+> -- No. I am interested in computer vision.
+
+> -- WAT? What is this?
+
+>	-- Sigh……..
 
 So, let me describe it for you. I try to do it without using specific terminology.
+
 Machine learning is a sub-branch of mathematics and AI that gives computers the ability to solve some problems using only input data. Mostly it’s based on statistics and optimization. Unfortunately, Machine learning сant solve only  some specifictask only after very  long computations that called. It is ok to build program that will separate cat photos from dog photos. But this program will be not able to   drive a car. For now we far from real AI like in movies.
 As it named signal processing has deal with signals. Signals from satellites, from your audio player, even digital images is a multi-dimensional signals. In other words, these signals a just the real world sensory data which we transmit from or to computers.
 
